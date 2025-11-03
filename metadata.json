@@ -1,0 +1,5 @@
+{
+  "name": "Salesforce 100-Day Roadmap",
+  "description": "An interactive web application that provides a structured 100-day learning plan for aspiring Salesforce administrators and developers. It includes a progress tracker, resource management, and a detailed daily curriculum.",
+  "requestFramePermissions": []
+}
